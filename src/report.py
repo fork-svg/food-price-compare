@@ -9,8 +9,14 @@ from .comparator import get_platform_name
 def generate_readme(comparisons: List[PriceComparison],
                    same_brand: List[PriceComparison],
                    restaurants: List[Restaurant],
-                   filepath: str = "README.md"):
+                   filepath: str = "README.md",
+                   data_source: str = "real_crawl"):
     """生成Markdown报告"""
+
+    source_desc = {
+        "real_crawl": "实时爬取",
+        "market_research": "市场调研数据（基于2024年真实价格）",
+    }.get(data_source, data_source)
 
     # 统计
     platform_count = {}
@@ -26,6 +32,7 @@ def generate_readme(comparisons: List[PriceComparison],
 > 自动爬取美团、饿了么、京东到家的外卖数据，帮你找到最便宜的外卖！
 
 **📍 位置**: 北京市朝阳区
+**📊 数据来源**: {source_desc}
 **⏰ 更新频率**: 每小时自动更新
 **🔄 最后更新**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 
