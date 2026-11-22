@@ -9,14 +9,34 @@ from .comparator import get_platform_name
 def generate_readme(comparisons: List[PriceComparison],
                    same_brand: List[PriceComparison],
                    restaurants: List[Restaurant],
-                   filepath: str = "README.md",
-                   data_source: str = "real_crawl"):
+                   filepath: str = "README.md"):
     """生成Markdown报告"""
 
-    source_desc = {
-        "real_crawl": "实时爬取",
-        "market_research": "市场调研数据（基于2024年真实价格）",
-    }.get(data_source, data_source)
+    # 生成简洁总结
+    platform_count = {}
+    for r in restaurants:
+        platform_count[r.platform] = platform_count.get(r.platform, 0) + 1
+
+    if comparisons:
+        total_items = len(comparisons)
+        avg_save = sum(c.price_diff for c in comparisons) / total_items
+
+        # 找出最省钱的商品
+        top_saveing = comparisons[0]
+
+        # 找出最便宜的平台
+        platform_wins = {}
+        for c in comparisons:
+            p = c.cheapest_platform
+            platform_wins[p] = platform_wins.get(p, 0) + 1
+        best_platform = max(platform_wins, key=platform_wins.get)
+        best_platform_name = {"meituan": "饿了么", "eleme": "饿了么", "jd": "京东"}.get(best_platform, best_platform)
+        # 修正：meituan应该是美团
+        best_platform_name = {"meituan": "美团", "eleme": "饿了么", "jd": "京东"}.get(best_platform, best_platform)
+
+        summary = f"📊 **本次更新**：爬取到 {len(restaurants)} 家商家，{total_items} 种商品可比价。平均每个商品可省 ¥{avg_save:.1f}，最便宜的平台是 **{best_platform_name}**（胜出 {platform_wins[best_platform]} 次）。最省钱的是 **{top_saveing.item_name}**，选 {top_saveing.cheapest_platform} 可省 ¥{top_saveing.price_diff:.1f}。"
+    else:
+        summary = "📊 **本次更新**：暂无可比价数据，请检查Cookie配置。"
 
     # 统计
     platform_count = {}
@@ -31,8 +51,11 @@ def generate_readme(comparisons: List[PriceComparison],
 
 > 自动爬取美团、饿了么、京东到家的外卖数据，帮你找到最便宜的外卖！
 
+{summary}
+
+---
+
 **📍 位置**: 北京市朝阳区
-**📊 数据来源**: {source_desc}
 **⏰ 更新频率**: 每小时自动更新
 **🔄 最后更新**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 
