@@ -1,1677 +1,861 @@
 {
-  "update_time": "2026-11-22T10:16:01.657770",
+  "update_time": "2026-11-22T10:27:00.713770",
   "restaurants": [
     {
-      "name": "麦当劳",
+      "name": "麦当劳(三里屯店)",
       "platform": "meituan",
-      "location": "朝阳区国贸店",
-      "distance": 4.8,
-      "delivery_fee": 0.1,
-      "delivery_time": 49,
-      "rating": 4.5,
-      "min_order": 2.5,
-      "menu": [
-        {
-          "name": "巨无霸",
-          "price": 24.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2328
-        },
-        {
-          "name": "薯条(大)",
-          "price": 13.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3223
-        },
-        {
-          "name": "麦辣鸡腿堡",
-          "price": 19.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1378
-        },
-        {
-          "name": "麦旋风",
-          "price": 12.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4366
-        },
-        {
-          "name": "可乐(大)",
-          "price": 10.0,
-          "original_price": 12.656722725214365,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 735
-        },
-        {
-          "name": "麦乐鸡(5块)",
-          "price": 13.5,
-          "original_price": 15.288916672585431,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2407
-        }
-      ]
-    },
-    {
-      "name": "肯德基",
-      "platform": "meituan",
-      "location": "朝阳区国贸店",
-      "distance": 2.4,
-      "delivery_fee": 3.0,
-      "delivery_time": 32,
-      "rating": 4.3,
+      "location": "北京市朝阳区",
+      "distance": 1.4,
+      "delivery_fee": 2.9,
+      "delivery_time": 30,
+      "rating": 4.500050590729137,
       "min_order": 2.0,
       "menu": [
         {
-          "name": "香辣鸡腿堡",
-          "price": 19.0,
+          "name": "巨无霸",
+          "price": 24.4,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 362
+          "monthly_sales": 1163
         },
         {
-          "name": "原味鸡(1块)",
-          "price": 13.0,
-          "original_price": 15.81123579937871,
+          "name": "麦辣鸡腿堡",
+          "price": 19.8,
+          "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 3949
+          "monthly_sales": 761
         },
         {
           "name": "薯条(大)",
-          "price": 12.0,
-          "original_price": null,
+          "price": 12.5,
+          "original_price": 14.4,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4957
+          "monthly_sales": 4524
         },
         {
-          "name": "蛋挞",
-          "price": 8.0,
-          "original_price": null,
+          "name": "麦旋风",
+          "price": 12.2,
+          "original_price": 14.0,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2753
+          "monthly_sales": 3887
         },
         {
           "name": "可乐(大)",
-          "price": 10.0,
+          "price": 9.8,
+          "original_price": 11.2,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 1200
+        },
+        {
+          "name": "麦乐鸡(5块)",
+          "price": 13.9,
+          "original_price": 16.0,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 2417
+        }
+      ]
+    },
+    {
+      "name": "肯德基(国贸店)",
+      "platform": "meituan",
+      "location": "北京市朝阳区",
+      "distance": 1.1,
+      "delivery_fee": 3.1,
+      "delivery_time": 41,
+      "rating": 4.227379161092506,
+      "min_order": 2.5,
+      "menu": [
+        {
+          "name": "香辣鸡腿堡",
+          "price": 18.4,
+          "original_price": 21.1,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3801
+        },
+        {
+          "name": "原味鸡(1块)",
+          "price": 13.1,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 1307
+          "monthly_sales": 4185
+        },
+        {
+          "name": "薯条(大)",
+          "price": 12.5,
+          "original_price": 14.3,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 2390
+        },
+        {
+          "name": "蛋挞",
+          "price": 7.7,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 2606
+        },
+        {
+          "name": "可乐(大)",
+          "price": 9.7,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3238
         },
         {
           "name": "新奥尔良烤翅(2块)",
-          "price": 13.0,
-          "original_price": 14.698483314337258,
+          "price": 12.9,
+          "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 567
+          "monthly_sales": 4517
         }
       ]
     },
     {
-      "name": "必胜客",
+      "name": "瑞幸咖啡(望京店)",
       "platform": "meituan",
-      "location": "朝阳区双井店",
-      "distance": 1.8,
-      "delivery_fee": 0.7,
-      "delivery_time": 39,
-      "rating": 4.2,
+      "location": "北京市朝阳区",
+      "distance": 2.0,
+      "delivery_fee": 3.5,
+      "delivery_time": 41,
+      "rating": 4.315655332735988,
       "min_order": 3.0,
       "menu": [
         {
-          "name": "超级至尊披萨(9寸)",
-          "price": 69.0,
-          "original_price": null,
-          "category": "西式快餐",
+          "name": "生椰拿铁",
+          "price": 21.5,
+          "original_price": 24.7,
+          "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 950
+          "monthly_sales": 4360
         },
         {
-          "name": "奶油蘑菇汤",
-          "price": 22.0,
-          "original_price": null,
-          "category": "西式快餐",
+          "name": "厚乳拿铁",
+          "price": 18.9,
+          "original_price": 21.7,
+          "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2649
+          "monthly_sales": 1280
         },
         {
-          "name": "烤翅(4块)",
-          "price": 28.0,
-          "original_price": 33.38849494644762,
-          "category": "西式快餐",
+          "name": "美式咖啡",
+          "price": 11.8,
+          "original_price": null,
+          "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 3847
+          "monthly_sales": 3115
         },
         {
-          "name": "蒜香面包",
-          "price": 15.0,
-          "original_price": null,
-          "category": "西式快餐",
+          "name": "卡布奇诺",
+          "price": 18.6,
+          "original_price": 21.4,
+          "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2282
+          "monthly_sales": 3353
         },
         {
-          "name": "可乐",
-          "price": 12.0,
+          "name": "摩卡",
+          "price": 19.5,
           "original_price": null,
-          "category": "西式快餐",
+          "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 1917
+          "monthly_sales": 1416
         },
         {
-          "name": "凯撒沙拉",
-          "price": 28.0,
-          "original_price": null,
-          "category": "西式快餐",
+          "name": "瑞纳冰",
+          "price": 24.7,
+          "original_price": 28.4,
+          "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 1112
+          "monthly_sales": 2983
         }
       ]
     },
     {
-      "name": "海底捞",
+      "name": "喜茶(三里屯太古里店)",
       "platform": "meituan",
-      "location": "朝阳区双井店",
-      "distance": 2.2,
-      "delivery_fee": 1.0,
-      "delivery_time": 27,
-      "rating": 4.7,
+      "location": "北京市朝阳区",
+      "distance": 0.6,
+      "delivery_fee": 3.3,
+      "delivery_time": 39,
+      "rating": 4.580768106154208,
+      "min_order": 4.0,
+      "menu": [
+        {
+          "name": "多肉葡萄",
+          "price": 28.5,
+          "original_price": null,
+          "category": "奶茶",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3808
+        },
+        {
+          "name": "芝芝芒芒",
+          "price": 31.6,
+          "original_price": null,
+          "category": "奶茶",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 1456
+        },
+        {
+          "name": "烤黑糖波波",
+          "price": 25.1,
+          "original_price": 28.9,
+          "category": "奶茶",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 1413
+        },
+        {
+          "name": "满杯红柚",
+          "price": 26.4,
+          "original_price": 30.4,
+          "category": "奶茶",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3801
+        },
+        {
+          "name": "纯绿妍",
+          "price": 14.8,
+          "original_price": 17.0,
+          "category": "奶茶",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3017
+        },
+        {
+          "name": "芋泥波波",
+          "price": 26.6,
+          "original_price": 30.6,
+          "category": "奶茶",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 4554
+        }
+      ]
+    },
+    {
+      "name": "海底捞(朝阳大悦城店)",
+      "platform": "meituan",
+      "location": "北京市朝阳区",
+      "distance": 1.3,
+      "delivery_fee": 3.1,
+      "delivery_time": 43,
+      "rating": 4.709295775403628,
       "min_order": 6.0,
       "menu": [
         {
           "name": "番茄锅底",
-          "price": 58.0,
+          "price": 59.5,
           "original_price": null,
           "category": "火锅",
           "description": "",
           "image_url": "",
-          "monthly_sales": 646
+          "monthly_sales": 3603
         },
         {
           "name": "麻辣锅底",
-          "price": 48.0,
-          "original_price": 55.200347620157274,
+          "price": 49.1,
+          "original_price": null,
           "category": "火锅",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4084
+          "monthly_sales": 3855
         },
         {
           "name": "肥牛卷",
-          "price": 58.0,
-          "original_price": null,
+          "price": 59.9,
+          "original_price": 68.9,
           "category": "火锅",
           "description": "",
           "image_url": "",
-          "monthly_sales": 1318
+          "monthly_sales": 1687
         },
         {
           "name": "虾滑",
-          "price": 48.0,
-          "original_price": null,
+          "price": 49.1,
+          "original_price": 56.5,
           "category": "火锅",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2622
+          "monthly_sales": 604
         },
         {
           "name": "毛肚",
-          "price": 48.0,
-          "original_price": 54.04063441544428,
+          "price": 47.4,
+          "original_price": 54.5,
           "category": "火锅",
           "description": "",
           "image_url": "",
-          "monthly_sales": 231
+          "monthly_sales": 914
         },
         {
           "name": "蔬菜拼盘",
-          "price": 32.0,
-          "original_price": 41.52955074528908,
+          "price": 33.3,
+          "original_price": 38.3,
           "category": "火锅",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2508
+          "monthly_sales": 3784
         }
       ]
     },
     {
-      "name": "喜茶",
-      "platform": "meituan",
-      "location": "朝阳区三里屯店",
-      "distance": 3.6,
-      "delivery_fee": 1.0,
-      "delivery_time": 28,
-      "rating": 4.6,
-      "min_order": 5.0,
+      "name": "麦当劳(三里屯SOHO店)",
+      "platform": "eleme",
+      "location": "北京市朝阳区",
+      "distance": 0.5,
+      "delivery_fee": 2.2,
+      "delivery_time": 33,
+      "rating": 4.668984812252789,
+      "min_order": 2.0,
+      "menu": [
+        {
+          "name": "巨无霸",
+          "price": 22.2,
+          "original_price": 25.5,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 1609
+        },
+        {
+          "name": "麦辣鸡腿堡",
+          "price": 17.7,
+          "original_price": 20.3,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3560
+        },
+        {
+          "name": "薯条(大)",
+          "price": 11.7,
+          "original_price": 13.5,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3464
+        },
+        {
+          "name": "麦旋风",
+          "price": 11.2,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 4194
+        },
+        {
+          "name": "可乐(大)",
+          "price": 9.9,
+          "original_price": 11.3,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3941
+        },
+        {
+          "name": "麦乐鸡(5块)",
+          "price": 12.6,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 4017
+        }
+      ]
+    },
+    {
+      "name": "肯德基(CBD店)",
+      "platform": "eleme",
+      "location": "北京市朝阳区",
+      "distance": 2.6,
+      "delivery_fee": 2.7,
+      "delivery_time": 29,
+      "rating": 4.431643971669018,
+      "min_order": 2.0,
+      "menu": [
+        {
+          "name": "香辣鸡腿堡",
+          "price": 17.6,
+          "original_price": 20.2,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 1334
+        },
+        {
+          "name": "原味鸡(1块)",
+          "price": 12.4,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 2505
+        },
+        {
+          "name": "薯条(大)",
+          "price": 11.7,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3981
+        },
+        {
+          "name": "蛋挞",
+          "price": 7.7,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 2479
+        },
+        {
+          "name": "可乐(大)",
+          "price": 9.2,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 1396
+        },
+        {
+          "name": "新奥尔良烤翅(2块)",
+          "price": 12.0,
+          "original_price": 13.8,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3816
+        }
+      ]
+    },
+    {
+      "name": "瑞幸咖啡(国贸店)",
+      "platform": "eleme",
+      "location": "北京市朝阳区",
+      "distance": 0.7,
+      "delivery_fee": 2.9,
+      "delivery_time": 32,
+      "rating": 4.4697163453150255,
+      "min_order": 3.0,
+      "menu": [
+        {
+          "name": "生椰拿铁",
+          "price": 21.4,
+          "original_price": 24.6,
+          "category": "咖啡",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 1707
+        },
+        {
+          "name": "厚乳拿铁",
+          "price": 18.4,
+          "original_price": 21.1,
+          "category": "咖啡",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 2465
+        },
+        {
+          "name": "美式咖啡",
+          "price": 10.9,
+          "original_price": null,
+          "category": "咖啡",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 2302
+        },
+        {
+          "name": "卡布奇诺",
+          "price": 17.3,
+          "original_price": null,
+          "category": "咖啡",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 4292
+        },
+        {
+          "name": "摩卡",
+          "price": 18.9,
+          "original_price": 21.8,
+          "category": "咖啡",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3193
+        },
+        {
+          "name": "瑞纳冰",
+          "price": 25.1,
+          "original_price": 28.9,
+          "category": "咖啡",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 2452
+        }
+      ]
+    },
+    {
+      "name": "喜茶(双井店)",
+      "platform": "eleme",
+      "location": "北京市朝阳区",
+      "distance": 1.0,
+      "delivery_fee": 2.5,
+      "delivery_time": 32,
+      "rating": 4.769383770191421,
+      "min_order": 4.0,
       "menu": [
         {
           "name": "多肉葡萄",
-          "price": 29.0,
-          "original_price": null,
+          "price": 27.8,
+          "original_price": 32.0,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 675
+          "monthly_sales": 3290
         },
         {
           "name": "芝芝芒芒",
-          "price": 32.0,
-          "original_price": null,
+          "price": 31.0,
+          "original_price": 35.7,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2811
+          "monthly_sales": 4952
         },
         {
           "name": "烤黑糖波波",
-          "price": 25.0,
+          "price": 23.1,
           "original_price": null,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 1076
+          "monthly_sales": 1769
         },
         {
           "name": "满杯红柚",
-          "price": 27.0,
+          "price": 26.8,
           "original_price": null,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 962
+          "monthly_sales": 2801
         },
         {
           "name": "纯绿妍",
-          "price": 15.0,
+          "price": 13.4,
+          "original_price": 15.4,
+          "category": "奶茶",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 4671
+        },
+        {
+          "name": "芋泥波波",
+          "price": 26.6,
           "original_price": null,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 1518
-        },
-        {
-          "name": "芋泥波波",
-          "price": 28.0,
-          "original_price": 35.946692945908616,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1895
+          "monthly_sales": 1887
         }
       ]
     },
     {
-      "name": "奈雪的茶",
-      "platform": "meituan",
-      "location": "朝阳区国贸店",
+      "name": "奈雪的茶(望京店)",
+      "platform": "eleme",
+      "location": "北京市朝阳区",
       "distance": 2.6,
-      "delivery_fee": 4.9,
-      "delivery_time": 48,
-      "rating": 4.5,
-      "min_order": 6.0,
+      "delivery_fee": 2.7,
+      "delivery_time": 37,
+      "rating": 4.584316769820011,
+      "min_order": 5.0,
       "menu": [
         {
           "name": "霸气芝士草莓",
-          "price": 32.0,
+          "price": 30.6,
           "original_price": null,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4112
+          "monthly_sales": 3713
         },
         {
           "name": "霸气橙子",
-          "price": 29.0,
-          "original_price": null,
+          "price": 27.9,
+          "original_price": 32.0,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 1752
+          "monthly_sales": 3494
         },
         {
           "name": "宝藏茶",
-          "price": 27.0,
+          "price": 26.6,
           "original_price": null,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4740
+          "monthly_sales": 2166
         },
         {
           "name": "软欧包",
-          "price": 18.0,
-          "original_price": 22.629887269165955,
+          "price": 17.7,
+          "original_price": 20.4,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 3294
+          "monthly_sales": 1262
         },
         {
           "name": "鸭屎香柠檬茶",
           "price": 22.0,
-          "original_price": 27.38304210230099,
+          "original_price": null,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2088
+          "monthly_sales": 4585
         },
         {
           "name": "芋泥麻薯",
-          "price": 25.0,
+          "price": 24.5,
           "original_price": null,
           "category": "奶茶",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2682
+          "monthly_sales": 2000
         }
       ]
     },
     {
-      "name": "瑞幸咖啡",
-      "platform": "meituan",
-      "location": "朝阳区大望路店",
-      "distance": 3.7,
-      "delivery_fee": 2.6,
-      "delivery_time": 25,
-      "rating": 4.4,
-      "min_order": 4.0,
-      "menu": [
-        {
-          "name": "生椰拿铁",
-          "price": 22.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2211
-        },
-        {
-          "name": "厚乳拿铁",
-          "price": 19.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4616
-        },
-        {
-          "name": "美式咖啡",
-          "price": 12.0,
-          "original_price": 14.156503636638588,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 851
-        },
-        {
-          "name": "卡布奇诺",
-          "price": 18.0,
-          "original_price": 22.245260284834288,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4630
-        },
-        {
-          "name": "摩卡",
-          "price": 20.0,
-          "original_price": 22.226815152683507,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3965
-        },
-        {
-          "name": "瑞纳冰",
-          "price": 25.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4437
-        }
-      ]
-    },
-    {
-      "name": "星巴克",
-      "platform": "meituan",
-      "location": "朝阳区望京店",
-      "distance": 4.9,
-      "delivery_fee": 0.5,
-      "delivery_time": 26,
-      "rating": 4.5,
-      "min_order": 5.5,
-      "menu": [
-        {
-          "name": "拿铁(大杯)",
-          "price": 33.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4138
-        },
-        {
-          "name": "美式(大杯)",
-          "price": 27.0,
-          "original_price": 35.09769341472285,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3085
-        },
-        {
-          "name": "卡布奇诺(大杯)",
-          "price": 32.0,
-          "original_price": 36.79401731198593,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 200
-        },
-        {
-          "name": "摩卡(大杯)",
-          "price": 35.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1097
-        },
-        {
-          "name": "星冰乐",
-          "price": 36.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 221
-        },
-        {
-          "name": "馥芮白",
-          "price": 35.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1781
-        }
-      ]
-    },
-    {
-      "name": "真功夫",
-      "platform": "meituan",
-      "location": "朝阳区双井店",
-      "distance": 4.8,
-      "delivery_fee": 5.8,
-      "delivery_time": 42,
-      "rating": 4.1,
-      "min_order": 2.5,
-      "menu": [
-        {
-          "name": "香菇鸡腿饭",
-          "price": 25.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1671
-        },
-        {
-          "name": "冬菇鸡腿肉饭",
-          "price": 26.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2881
-        },
-        {
-          "name": "排骨饭",
-          "price": 28.0,
-          "original_price": 36.36438189732516,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4453
-        },
-        {
-          "name": "半边鸡",
-          "price": 32.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2891
-        },
-        {
-          "name": "蒸蛋",
-          "price": 8.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3379
-        },
-        {
-          "name": "例汤",
-          "price": 8.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3377
-        }
-      ]
-    },
-    {
-      "name": "吉野家",
-      "platform": "meituan",
-      "location": "朝阳区三里屯店",
+      "name": "麦当劳(朝阳店)",
+      "platform": "jd",
+      "location": "北京市朝阳区",
       "distance": 1.5,
-      "delivery_fee": 0.5,
-      "delivery_time": 47,
-      "rating": 4.2,
-      "min_order": 2.0,
-      "menu": [
-        {
-          "name": "牛肉饭(大)",
-          "price": 28.0,
-          "original_price": 31.339333475427036,
-          "category": "日式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1599
-        },
-        {
-          "name": "照烧鸡排饭",
-          "price": 26.0,
-          "original_price": 30.015831804878864,
-          "category": "日式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4387
-        },
-        {
-          "name": "猪排饭",
-          "price": 30.0,
-          "original_price": null,
-          "category": "日式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2710
-        },
-        {
-          "name": "温泉蛋",
-          "price": 5.0,
-          "original_price": null,
-          "category": "日式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 717
-        },
-        {
-          "name": "味噌汤",
-          "price": 8.0,
-          "original_price": 9.194945305878436,
-          "category": "日式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1637
-        },
-        {
-          "name": "沙拉",
-          "price": 12.0,
-          "original_price": null,
-          "category": "日式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1119
-        }
-      ]
-    },
-    {
-      "name": "味千拉面",
-      "platform": "meituan",
-      "location": "朝阳区双井店",
-      "distance": 4.0,
-      "delivery_fee": 5.9,
-      "delivery_time": 25,
-      "rating": 4.0,
-      "min_order": 2.5,
-      "menu": [
-        {
-          "name": "豚骨拉面",
-          "price": 32.0,
-          "original_price": null,
-          "category": "日式",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4552
-        },
-        {
-          "name": "叉烧拉面",
-          "price": 38.0,
-          "original_price": null,
-          "category": "日式",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4021
-        },
-        {
-          "name": "味千炒饭",
-          "price": 22.0,
-          "original_price": 25.075394272398547,
-          "category": "日式",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2428
-        },
-        {
-          "name": "煎饺(6个)",
-          "price": 18.0,
-          "original_price": null,
-          "category": "日式",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1023
-        },
-        {
-          "name": "唐扬鸡块",
-          "price": 18.0,
-          "original_price": null,
-          "category": "日式",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 104
-        },
-        {
-          "name": "可尔必思",
-          "price": 12.0,
-          "original_price": null,
-          "category": "日式",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 372
-        }
-      ]
-    },
-    {
-      "name": "老乡鸡",
-      "platform": "meituan",
-      "location": "朝阳区国贸店",
-      "distance": 4.2,
-      "delivery_fee": 5.0,
-      "delivery_time": 25,
-      "rating": 4.3,
-      "min_order": 2.0,
-      "menu": [
-        {
-          "name": "肥西老母鸡汤",
-          "price": 35.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3302
-        },
-        {
-          "name": "梅菜扣肉饭",
-          "price": 22.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1019
-        },
-        {
-          "name": "鸡杂饭",
-          "price": 20.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4497
-        },
-        {
-          "name": "竹笋蒸鸡翅",
-          "price": 18.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3760
-        },
-        {
-          "name": "米饭",
-          "price": 2.0,
-          "original_price": 2.3782726347766134,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2997
-        },
-        {
-          "name": "酸梅汤",
-          "price": 8.0,
-          "original_price": 9.478968873626457,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3183
-        }
-      ]
-    },
-    {
-      "name": "麦当劳",
-      "platform": "eleme",
-      "location": "朝阳区大望路店",
-      "distance": 3.1,
-      "delivery_fee": 1.4,
-      "delivery_time": 42,
-      "rating": 4.6,
+      "delivery_fee": 5.2,
+      "delivery_time": 43,
+      "rating": 4.366761327510579,
       "min_order": 2.5,
       "menu": [
         {
           "name": "巨无霸",
-          "price": 23.0,
+          "price": 26.0,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 589
-        },
-        {
-          "name": "薯条(大)",
-          "price": 12.5,
-          "original_price": 14.153056339307014,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4801
+          "monthly_sales": 3698
         },
         {
           "name": "麦辣鸡腿堡",
-          "price": 18.0,
+          "price": 20.1,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2111
+          "monthly_sales": 4776
+        },
+        {
+          "name": "薯条(大)",
+          "price": 14.5,
+          "original_price": null,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 3531
         },
         {
           "name": "麦旋风",
-          "price": 11.5,
+          "price": 12.0,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 3548
+          "monthly_sales": 2389
         },
         {
           "name": "可乐(大)",
-          "price": 9.5,
+          "price": 10.5,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4296
+          "monthly_sales": 3533
         },
         {
           "name": "麦乐鸡(5块)",
-          "price": 13.0,
+          "price": 13.4,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2499
+          "monthly_sales": 4280
         }
       ]
     },
     {
-      "name": "肯德基",
-      "platform": "eleme",
-      "location": "朝阳区双井店",
-      "distance": 1.7,
-      "delivery_fee": 1.6,
-      "delivery_time": 30,
-      "rating": 4.4,
+      "name": "肯德基(三里屯店)",
+      "platform": "jd",
+      "location": "北京市朝阳区",
+      "distance": 0.8,
+      "delivery_fee": 4.3,
+      "delivery_time": 41,
+      "rating": 4.375412191688245,
       "min_order": 2.0,
       "menu": [
         {
           "name": "香辣鸡腿堡",
-          "price": 18.5,
+          "price": 20.6,
+          "original_price": 23.7,
+          "category": "西式快餐",
+          "description": "",
+          "image_url": "",
+          "monthly_sales": 782
+        },
+        {
+          "name": "原味鸡(1块)",
+          "price": 13.6,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 518
-        },
-        {
-          "name": "原味鸡(1块)",
-          "price": 12.5,
-          "original_price": 15.44236299732081,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2122
+          "monthly_sales": 2516
         },
         {
           "name": "薯条(大)",
-          "price": 11.5,
-          "original_price": 12.889801714181067,
+          "price": 13.2,
+          "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 3749
+          "monthly_sales": 2322
         },
         {
           "name": "蛋挞",
-          "price": 7.5,
-          "original_price": 8.790775513289512,
+          "price": 8.6,
+          "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4237
+          "monthly_sales": 835
         },
         {
           "name": "可乐(大)",
-          "price": 9.5,
+          "price": 11.0,
           "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 111
+          "monthly_sales": 1247
         },
         {
           "name": "新奥尔良烤翅(2块)",
-          "price": 12.5,
-          "original_price": 14.444364152200679,
+          "price": 13.9,
+          "original_price": null,
           "category": "西式快餐",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4726
+          "monthly_sales": 3811
         }
       ]
     },
     {
-      "name": "德克士",
-      "platform": "eleme",
-      "location": "朝阳区望京店",
-      "distance": 3.5,
-      "delivery_fee": 1.3,
-      "delivery_time": 29,
-      "rating": 4.0,
-      "min_order": 1.8,
-      "menu": [
-        {
-          "name": "脆皮炸鸡",
-          "price": 12.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2450
-        },
-        {
-          "name": "鸡腿堡",
-          "price": 15.0,
-          "original_price": 17.978408984529153,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1665
-        },
-        {
-          "name": "薯条",
-          "price": 10.0,
-          "original_price": 12.0171923996236,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4123
-        },
-        {
-          "name": "鸡块",
-          "price": 10.0,
-          "original_price": 11.663548011889509,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3285
-        },
-        {
-          "name": "可乐",
-          "price": 8.0,
-          "original_price": 9.045643780651833,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4531
-        },
-        {
-          "name": "蛋挞",
-          "price": 6.0,
-          "original_price": 7.222537596884875,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1076
-        }
-      ]
-    },
-    {
-      "name": "喜茶",
-      "platform": "eleme",
-      "location": "朝阳区CBD店",
-      "distance": 3.1,
-      "delivery_fee": 3.1,
-      "delivery_time": 42,
-      "rating": 4.7,
-      "min_order": 5.0,
-      "menu": [
-        {
-          "name": "多肉葡萄",
-          "price": 28.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4509
-        },
-        {
-          "name": "芝芝芒芒",
-          "price": 31.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 639
-        },
-        {
-          "name": "烤黑糖波波",
-          "price": 24.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1267
-        },
-        {
-          "name": "满杯红柚",
-          "price": 26.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1505
-        },
-        {
-          "name": "纯绿妍",
-          "price": 14.0,
-          "original_price": 16.13145634853872,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2657
-        },
-        {
-          "name": "芋泥波波",
-          "price": 27.0,
-          "original_price": 31.92376883751972,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1992
-        }
-      ]
-    },
-    {
-      "name": "奈雪的茶",
-      "platform": "eleme",
-      "location": "朝阳区双井店",
-      "distance": 3.0,
-      "delivery_fee": 0.3,
-      "delivery_time": 42,
-      "rating": 4.6,
-      "min_order": 6.0,
-      "menu": [
-        {
-          "name": "霸气芝士草莓",
-          "price": 31.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1993
-        },
-        {
-          "name": "霸气橙子",
-          "price": 28.0,
-          "original_price": 34.75860475385933,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 226
-        }
-      ]
-    },
-    {
-      "name": "一点点",
-      "platform": "eleme",
-      "location": "朝阳区CBD店",
-      "distance": 2.7,
-      "delivery_fee": 0.6,
-      "delivery_time": 26,
-      "rating": 4.3,
-      "min_order": 3.5,
-      "menu": [
-        {
-          "name": "波霸奶茶",
-          "price": 15.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2140
-        },
-        {
-          "name": "四季春茶",
-          "price": 12.0,
-          "original_price": 14.427314136557865,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3526
-        },
-        {
-          "name": "冰淇淋红茶",
-          "price": 16.0,
-          "original_price": 19.38405081440471,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1934
-        },
-        {
-          "name": "椰果奶茶",
-          "price": 14.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2407
-        },
-        {
-          "name": "阿萨姆红茶",
-          "price": 10.0,
-          "original_price": 11.845770440263763,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4289
-        },
-        {
-          "name": "柠檬绿",
-          "price": 13.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 880
-        }
-      ]
-    },
-    {
-      "name": "CoCo都可",
-      "platform": "eleme",
-      "location": "朝阳区三里屯店",
-      "distance": 2.3,
-      "delivery_fee": 1.1,
-      "delivery_time": 39,
-      "rating": 4.2,
+      "name": "瑞幸咖啡(大望路店)",
+      "platform": "jd",
+      "location": "北京市朝阳区",
+      "distance": 1.3,
+      "delivery_fee": 4.7,
+      "delivery_time": 51,
+      "rating": 4.245351312274676,
       "min_order": 3.0,
       "menu": [
         {
-          "name": "百香双响炮",
-          "price": 16.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4879
-        },
-        {
-          "name": "鲜百香双响炮",
-          "price": 18.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4466
-        },
-        {
-          "name": "珍珠奶茶",
-          "price": 14.0,
-          "original_price": 16.678695847528967,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 858
-        },
-        {
-          "name": "椰果奶茶",
-          "price": 13.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 249
-        },
-        {
-          "name": "柠檬梅子",
-          "price": 15.0,
-          "original_price": 17.74194844441079,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 703
-        },
-        {
-          "name": "鲜柠檬",
-          "price": 14.0,
-          "original_price": null,
-          "category": "奶茶",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1486
-        }
-      ]
-    },
-    {
-      "name": "瑞幸咖啡",
-      "platform": "eleme",
-      "location": "朝阳区大望路店",
-      "distance": 3.2,
-      "delivery_fee": 4.7,
-      "delivery_time": 27,
-      "rating": 4.5,
-      "min_order": 4.0,
-      "menu": [
-        {
           "name": "生椰拿铁",
-          "price": 21.0,
-          "original_price": 25.46988219847714,
+          "price": 23.3,
+          "original_price": 26.8,
           "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 3042
+          "monthly_sales": 3475
         },
         {
           "name": "厚乳拿铁",
-          "price": 18.0,
-          "original_price": null,
+          "price": 20.7,
+          "original_price": 23.9,
           "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4259
-        }
-      ]
-    },
-    {
-      "name": "Manner",
-      "platform": "eleme",
-      "location": "朝阳区大望路店",
-      "distance": 1.4,
-      "delivery_fee": 4.4,
-      "delivery_time": 24,
-      "rating": 4.6,
-      "min_order": 4.5,
-      "menu": [
-        {
-          "name": "拿铁",
-          "price": 15.0,
-          "original_price": 16.529636145116527,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1611
+          "monthly_sales": 2245
         },
         {
-          "name": "美式",
-          "price": 10.0,
-          "original_price": 11.192139811404157,
+          "name": "美式咖啡",
+          "price": 13.2,
+          "original_price": 15.2,
           "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 4759
-        },
-        {
-          "name": "澳白",
-          "price": 18.0,
-          "original_price": 22.449519292832875,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4698
+          "monthly_sales": 4157
         },
         {
           "name": "卡布奇诺",
-          "price": 16.0,
+          "price": 18.5,
           "original_price": null,
           "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 662
+          "monthly_sales": 781
         },
         {
-          "name": "dirty",
-          "price": 20.0,
+          "name": "摩卡",
+          "price": 21.3,
           "original_price": null,
           "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 2934
+          "monthly_sales": 2009
         },
         {
-          "name": "手冲",
-          "price": 25.0,
-          "original_price": 28.703563986444262,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2074
-        }
-      ]
-    },
-    {
-      "name": "老乡鸡",
-      "platform": "eleme",
-      "location": "朝阳区望京店",
-      "distance": 3.3,
-      "delivery_fee": 3.1,
-      "delivery_time": 42,
-      "rating": 4.4,
-      "min_order": 2.0,
-      "menu": [
-        {
-          "name": "肥西老母鸡汤",
-          "price": 34.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2409
-        },
-        {
-          "name": "梅菜扣肉饭",
-          "price": 21.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1813
-        }
-      ]
-    },
-    {
-      "name": "大米先生",
-      "platform": "eleme",
-      "location": "朝阳区双井店",
-      "distance": 2.8,
-      "delivery_fee": 2.5,
-      "delivery_time": 22,
-      "rating": 4.2,
-      "min_order": 1.8,
-      "menu": [
-        {
-          "name": "回锅肉饭",
-          "price": 18.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1289
-        },
-        {
-          "name": "番茄炒蛋饭",
-          "price": 15.0,
-          "original_price": 17.965483856528767,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2002
-        },
-        {
-          "name": "红烧排骨饭",
-          "price": 22.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 2242
-        },
-        {
-          "name": "宫保鸡丁饭",
-          "price": 17.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3619
-        },
-        {
-          "name": "米饭",
-          "price": 2.0,
-          "original_price": 2.4169172977442597,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1733
-        },
-        {
-          "name": "例汤",
-          "price": 5.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4078
-        }
-      ]
-    },
-    {
-      "name": "杨国福麻辣烫",
-      "platform": "eleme",
-      "location": "朝阳区三里屯店",
-      "distance": 4.4,
-      "delivery_fee": 1.6,
-      "delivery_time": 36,
-      "rating": 4.1,
-      "min_order": 2.0,
-      "menu": [
-        {
-          "name": "麻辣烫(小份)",
-          "price": 22.0,
-          "original_price": 24.250586902508978,
-          "category": "麻辣烫",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4967
-        },
-        {
-          "name": "麻辣烫(大份)",
-          "price": 32.0,
-          "original_price": null,
-          "category": "麻辣烫",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 239
-        },
-        {
-          "name": "冒菜",
-          "price": 28.0,
-          "original_price": 34.06321237862493,
-          "category": "麻辣烫",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 872
-        },
-        {
-          "name": "拌菜",
-          "price": 18.0,
-          "original_price": 22.140290336013663,
-          "category": "麻辣烫",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 3296
-        },
-        {
-          "name": "饮料",
-          "price": 5.0,
-          "original_price": null,
-          "category": "麻辣烫",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1909
-        },
-        {
-          "name": "加面",
-          "price": 3.0,
-          "original_price": null,
-          "category": "麻辣烫",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 4669
-        }
-      ]
-    },
-    {
-      "name": "麦当劳",
-      "platform": "jd",
-      "location": "朝阳区望京店",
-      "distance": 2.7,
-      "delivery_fee": 6.2,
-      "delivery_time": 59,
-      "rating": 4.4,
-      "min_order": 2.5,
-      "menu": [
-        {
-          "name": "巨无霸",
-          "price": 25.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 841
-        },
-        {
-          "name": "薯条(大)",
-          "price": 14.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1504
-        },
-        {
-          "name": "麦辣鸡腿堡",
-          "price": 20.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 959
-        }
-      ]
-    },
-    {
-      "name": "肯德基",
-      "platform": "jd",
-      "location": "朝阳区望京店",
-      "distance": 5.5,
-      "delivery_fee": 2.8,
-      "delivery_time": 44,
-      "rating": 4.3,
-      "min_order": 2.0,
-      "menu": [
-        {
-          "name": "香辣鸡腿堡",
-          "price": 20.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 102
-        },
-        {
-          "name": "原味鸡(1块)",
-          "price": 14.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 305
-        },
-        {
-          "name": "薯条(大)",
-          "price": 13.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1640
-        }
-      ]
-    },
-    {
-      "name": "必胜客",
-      "platform": "jd",
-      "location": "朝阳区三里屯店",
-      "distance": 4.9,
-      "delivery_fee": 6.7,
-      "delivery_time": 34,
-      "rating": 4.1,
-      "min_order": 3.0,
-      "menu": [
-        {
-          "name": "超级至尊披萨(9寸)",
-          "price": 72.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 492
-        },
-        {
-          "name": "烤翅(4块)",
-          "price": 30.0,
-          "original_price": null,
-          "category": "西式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1516
-        }
-      ]
-    },
-    {
-      "name": "瑞幸咖啡",
-      "platform": "jd",
-      "location": "朝阳区三里屯店",
-      "distance": 1.0,
-      "delivery_fee": 4.0,
-      "delivery_time": 40,
-      "rating": 4.3,
-      "min_order": 4.0,
-      "menu": [
-        {
-          "name": "生椰拿铁",
-          "price": 23.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 160
-        },
-        {
-          "name": "厚乳拿铁",
-          "price": 20.0,
-          "original_price": null,
-          "category": "咖啡",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 988
-        }
-      ]
-    },
-    {
-      "name": "真功夫",
-      "platform": "jd",
-      "location": "朝阳区国贸店",
-      "distance": 3.1,
-      "delivery_fee": 4.8,
-      "delivery_time": 56,
-      "rating": 4.0,
-      "min_order": 2.5,
-      "menu": [
-        {
-          "name": "香菇鸡腿饭",
+          "name": "瑞纳冰",
           "price": 26.0,
           "original_price": null,
-          "category": "中式快餐",
+          "category": "咖啡",
           "description": "",
           "image_url": "",
-          "monthly_sales": 484
-        },
-        {
-          "name": "排骨饭",
-          "price": 29.0,
-          "original_price": null,
-          "category": "中式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1272
-        }
-      ]
-    },
-    {
-      "name": "吉野家",
-      "platform": "jd",
-      "location": "朝阳区国贸店",
-      "distance": 5.7,
-      "delivery_fee": 5.6,
-      "delivery_time": 46,
-      "rating": 4.1,
-      "min_order": 2.0,
-      "menu": [
-        {
-          "name": "牛肉饭(大)",
-          "price": 29.0,
-          "original_price": null,
-          "category": "日式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 348
-        },
-        {
-          "name": "照烧鸡排饭",
-          "price": 27.0,
-          "original_price": null,
-          "category": "日式快餐",
-          "description": "",
-          "image_url": "",
-          "monthly_sales": 1617
+          "monthly_sales": 2356
         }
       ]
     }
